@@ -27,3 +27,7 @@ pytest projects/01-taskflow -q
 - SQLite with `row_factory`, indexes, parameterised queries (no SQL injection)
 - Context manager + rollback-on-error transaction helper
 - Pure rendering functions (`render_table`) that are testable without a TTY
+
+## Repository
+- GitHub: https://github.com/{owner}/taskflow
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
